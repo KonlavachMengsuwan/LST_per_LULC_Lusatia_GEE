@@ -4,6 +4,11 @@
 
 This repository contains the Google Earth Engine (GEE) scripts and related files for analyzing Land Surface Temperature (LST) and Land Use/Land Cover (LULC) data for the Lusatia region. The project uses data from Landsat 8/9 and the ESRI LULC dataset.
 
+## GEE
+```
+https://code.earthengine.google.com/e21a8b3cc10f3280aee0b69a6d08c262
+```
+
 ## Overview
 
 The primary objectives of this project are to:
